@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">SMC</string>
+    <string name="openDrawer">Open Navigation Drawer</string>
+    <string name="closeDrawer">Close Navigation Drawer</string>
+
+
+    <!-- Home -->
+    <string name="h_header">SUNRAYS MANAGEMENT CONSULTANCY</string>
+    <string name="h_slogan">Brighten Your Potential</string>
+    <string name="h_title">WELCOME TO SUNRAYS </string>
+    <string name="h_text1">Sunrays Management Consultancy specializes in providing strategic support in all HR related services.</string>
+    <string name="h_text2">Responsible for providing human capital management advisory services to businesses.</string>
+    <string name="h_text3">The main focus is to provide coaching support to the employees. In a competitive market with deadlines to meet, the line managers/supervisors are left with little or no time to provide the much needed coaching to themselves and to their colleagues. Here’s where we have the expertise to provide the right interventions and spend exclusive time with your employees to understand their issues and support them in achieving their optimum performance, which in turn results in higher productivity for your organization. </string>
+    <string name="h_text4">OUR EXPERTISE</string>
+    <string name="h_text5">\u2022 Human Relations</string>
+    <string name="h_text6">\u2022 Payroll (Oracle based)</string>
+    <string name="h_text7">\u2022 Management Information Systems</string>
+    <string name="h_text8">\u2022 Human Resource Management</string>
+    <string name="h_text9">\u2022 Organizational Behavior</string>
+    <string name="h_text10">\u2022 Business Ethics</string>
+    <string name="h_text11">\u2022 Strategic Compensation</string>
+    <string name="h_text12">\u2022 Leadership</string>
+    <string name="h_text13">\u2022 Strategic Management</string>
+
+    <!-- About -->
+    <string name="a_title">ABOUT US</string>
+    <string name="a_text1"> What competencies do we have as HR Consultants</string>
+    <string name="a_text2">In addition to possessing advanced business and human resources skills and knowledge, we possess a number of competencies:</string>
+    <string name="a_text3">Self-confidence:</string>
+    <string name="a_text4">As HR consultants we are sure of ourselves as we have to impart our wisdom and know-how to others.</string>
+    <string name="a_text5">Theoretical and practical knowledge:</string>
+    <string name="a_text6">We have the experience necessary to understand what solutions have worked in the past and about how to improve upon past mistakes.</string>
+    <string name="a_text7"> Ability to explain ideas and concepts in a simplified manner: </string>
+    <string name="a_text8">We understand complex ideas in HR, and are able to simplify and  explain problems and solutions in terms everyone can understand.</string>
+    <string name="a_text9">Ability to improvise:</string>
+    <string name="a_text10">Because organizations are always evolving and changing, we are able to foresee and implement multiple  solutions.</string>
+    <string name="a_text11">Excellent listening skills:</string>
+    <string name="a_text12">Before solutions can be discovered, problems need to be fully understood. Therefore, we carefully listen to the needs of our clients as to implement solutions that address their specific needs.</string>
+    <string name="a_text13">Trustworthy:</string>
+    <string name="a_text14">We are able to develop a strong relationship with our clients, and assure full integrity as to build trust.</string>
+    <string name="a_text15">Strong analytical and interpersonal skills to be able to present proposed changes effectively to the human resources department and  management teams.</string>
+    <string name="a_text16">\u2022 Person who likes to organize and evaluate data</string>
+    <string name="a_text17">\u2022 Work well with people</string>
+    <string name="a_text18">\u2022 Ability to put people at ease in tense situations</string>
+    <string name="a_text19">\u2022 Comfortable advising managers on organizational policy issues and recommending changes </string>
+    <string name="a_text20">\u2022 Develop, plan, and implement various HR initiatives like compensation, benefits, and performance management programs</string>
+    <string name="a_text21">\u2022 To analyze HR practices in a company to establish competitive programs and ensure legal compliance </string>
+
+    <!-- Corporate Services -->
+    <string name="cs_title">CORPORATE SERVICES</string>
+    <string name="cs_text1">Helps companies coach and develop their human capital by effectively communicating policies, train employees, and implement a strategic Human Capital process.</string>
+    <string name="cs_text2">\u2022 Advise companies on best human capital management practices.</string>
+    <string name="cs_text3">\u2022 Helps clients strategically integrate effective HR processes, programs and practices into their daily operations.</string>
+    <string name="cs_text4">\u2022 Perform internal reviews and audit of current systems and policies.</string>
+    <string name="cs_text5">\u2022 Perform quality assurance checks.</string>
+    <string name="cs_text6">\u2022 Ensure business practices are in accordance with human resource policies and labor laws.</string>
+    <string name="cs_text7">\u2022 Help train managers and HR employees.</string>
+    <string name="cs_text8">\u2022 Provide company with updated salary and job description information.</string>
+    <string name="cs_text9">\u2022 Provide consultation and guidance to senior management and organizational partners in the interpretation of human resource management policies, procedures, programs and application of related government laws and regulations.</string>
+    <string name="cs_text10">KNOW MORE</string>
+    <string name="cs_text11">\u2022 Advice and Lead in HR-related projects.</string>
+    <string name="cs_text12">\u2022 Provide advice on discipline process, conduct disciplinary review conferences and advise on appropriate outcomes.</string>
+    <string name="cs_text13">\u2022 Develop employee restructuring plans.</string>
+    <string name="cs_text14">\u2022 Devise severance packages.</string>
+    <string name="cs_text15">\u2022 Ensure that an organization’s human capital serves the best interests of the company. By creating and developing a human resources model specific to the organizations that hire them.</string>
+    <string name="cs_text16">\u2022 Work to ensure that the company is effectively using its personnel to achieve its stated goals, while also ensuring the workforce is operating at a high level of productivity and efficiency.</string>
+    <string name="cs_text17">\u2022 The goal is always to leave the company with an efficient and productive HR department.</string>
+    <string name="cs_text18">\u2022 To fully understand issues and inefficiencies in human resources and how to remedy them.</string>
+    <string name="cs_text19">\u2022 Attracting smaller companies who may need basic services related to recruiting, hiring, benefits, performance management, and training. Offer more strategic services that are of importance to larger operations.</string>
+    <string name="cs_text20">\u2022 Advising management on the administration of human resources policies and procedures.</string>
+    <string name="cs_text21">\u2022 Serving as internal consultants by analyzing a company’s current HR programs and recommending solutions.</string>
+    <string name="cs_text22">\u2022 Developing, revising, and implementing HR policies and procedures.</string>
+    <string name="cs_text23">\u2022 Ensuring HR programs and services are in compliance with established policies and procedures and state/federal laws and regulations.</string>
+    <string name="cs_text24">\u2022 Preparing and maintaining reports related to specific HR projects.</string>
+    <string name="cs_text25">\u2022 Assisting with the development and coordination of recommended changes regarding workflow.</string>
+    <string name="cs_text26">\u2022 Developing methods for compiling and analyzing data for reports and special projects.</string>
+    <string name="cs_text27">\u2022 Conducting audits of HR activities to ensure compliance.</string>
+    <string name="cs_text28">\u2022 Presenting training sessions related to specific HR programs.</string>
+
+    <!-- Contact-->
+    <string name="c_title">CONTACT</string>
+    <string name="c_text1">Sandhya Sahasranaman</string>
+    <string name="c_text2">PO Box (19019), Dubai,U.A.E.</string>
+    <string name="c_text3">M : +971 (505864314) \n +971 (551722195)</string>
+    <string name="c_text4"> Reach us @ \n Sandhya.S@sunraysmanagement.com</string>
+    <string name="title_activity_smclocation">SMC</string>
+
+
+</resources>
